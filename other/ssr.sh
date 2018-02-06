@@ -287,6 +287,7 @@ ssr_link_qr(){
 	SSRurl="ssr://${SSRbase64}"
 	SSRQRcode="echo '${SSRurl}' | qrencode -t UTF8"
 	ssr_link=" SSR   链接 : ${Red_font_prefix}${SSRurl}${Font_color_suffix} \n SSR 二维码 : ${Red_font_prefix}${SSRQRcode}${Font_color_suffix} \n "
+	echo "${SSRurl}" | qrencode -t UTF8
 }
 ss_ssr_determine(){
 	protocol_suffix=`echo ${protocol} | awk -F "_" '{print $NF}'`
