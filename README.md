@@ -1,3 +1,74 @@
+# 这是什么地方
+
+------
+
+理解需要更便捷更高效的工具或者有时需要记录思想，整理笔记、知识，并将其中承载的价值传播给他人，**Joey** 是我个人分享的地方 —— 为记录思想和分享知识提供更专业的工具。
+
+> * 整理知识，学习笔记
+> * 发布日记，杂文，所见所想
+> * 撰写发布技术文稿（代码支持）
+> * 撰写发布学术论文（LaTeX 公式支持）
+> * 备份文档
+> * 个人小脚本
+
+
+
+### [SS/SSR Python备份文档](https://github.com/JoeJoeyMa/joey)
+
+> 内置文件包含一些脚本(other)和个人分享，图床(img)
+
+------
+
+## 什么是 qrencode
+
+qrencode 是一种方便展示把ss/ssr链接在shell终端生成二维码的工具。当然你用它生成任何形式的二维码（无论是个人链接或者是支付二维码）
+
+### 1. 如何安装 [qrencode](https://github.com/fukuchi/libqrencode)
+
+- [ ] Fedora: sudo dnf install qrencode
+- [ ] Centos: yum install qrencode
+- [ ] Debian: Almost same Centos
+- [x] 支持在shell终端生成二维码并展示
+- [x] 可以生成几乎所有形式的二维码
+- [x] 可集成于其他项目中一起使用
+
+### 2. other文件内的个人脚本
+
+$$https://github.com/JoeJoeyMa/joey/tree/master/other$$
+
+### 3. img个人图床
+
+
+### 4. 流程图 
+
+```flow
+st=>start: Joey
+op=>operation: document
+cond=>condition: Flie?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+
+
+
+
+
+### 7. 绘制表格
+
+| 项目        | 项目地址   |  简介  |
+| --------   | -----:  | :----:  |
+| Blog     | https://github.com/JoeJoeyMa/Django2.0-Blog |   个人基于Django搭建blog   |
+| Joey        |   https://github.com/JoeJoeyMa/joey   |   个人文档   |
+| other        |    other   |  other  |
+
+
+
+
+
 ShadowsocksR
 ===========
 
