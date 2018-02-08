@@ -36,28 +36,17 @@ qrencode 是一种方便展示把ss/ssr链接在shell终端生成二维码的工
 
 $$https://github.com/JoeJoeyMa/joey/tree/master/other$$
 
-### 3. img个人图床
-
-
-### 4. 流程图 
-
-```flow
-st=>start: Joey
-op=>operation: document
-cond=>condition: Flie?
-e=>end
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
+###  img个人图床
 
 
 
 
 
 
-### 7. 绘制表格
+
+
+
+###  绘制表格
 
 | 项目        | 项目地址   |  简介  |
 | --------   | -----:  | :----:  |
