@@ -15,7 +15,7 @@
 
 ### [SS/SSR Python备份文档](https://github.com/JoeJoeyMa/joey)
 
-> 内置文件包含一些脚本(other)和个人分享，图床(img)
+> 内置文件包含一些脚本(other)和个人分享
 
 ------
 
@@ -52,8 +52,6 @@ Debian / Ubuntu /Centos:
 支持 监控SSR服务端运行状态
 
 
-
-###  img个人图床
 
 
 
