@@ -39,17 +39,24 @@ https://github.com/JoeJoeyMa/joey/tree/master/other.
 
 Debian / Ubuntu /Centos:
 
-    apt-get install git
     wget -N --no-check-certificate https://raw.githubusercontent.com/JoeJoeyMa/joey/master/other/ssr.sh && chmod +x ssr.sh && bash ssr.sh
     一键脚本安装多用户可控SS/SSR
 支持 限制 用户速度
+
 支持 限制 用户设备数
+
 支持 限制 用户总流量
+
 支持 定时 流量清零
+
 支持 显示 当前连接IP
+
 支持 显示 SS/SSR连接+二维码
+
 支持 自定义账号IP或域名
+
 支持 监控SSR服务端运行状态
+
 
 
 
