@@ -7927,7 +7927,7 @@ ultrasurf
 @@||aliyun.com
 @@||aliyun.com
 @@||qidian.com
-@@||lkong.net
+@@||www.lkong.net
 !--@@||bing.com
 @@||chinaso.com
 @@||chinaz.com
