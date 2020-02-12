@@ -7928,6 +7928,14 @@ ultrasurf
 @@||aliyun.com
 @@||qidian.com
 @@||www.lkong.net
+@@||lkong.net
+@@||jandan.net
+@@||jandan.net
+@@||sinaimg.cn
+@@||solidot.org
+@@||loveq.cn
+@@||freebuf.com
+
 !--@@||bing.com
 @@||chinaso.com
 @@||chinaz.com
