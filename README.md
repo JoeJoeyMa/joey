@@ -1,38 +1,24 @@
-# 这是什么地方
+**Joey**
+
+
+
+
+(https://github.com/JoeJoeyMa/joey)
+
+
 
 ------
 
-理解需要更便捷更高效的工具或者有时需要记录思想，整理笔记、知识，并将其中承载的价值传播给他人，**Joey** 是我个人分享的地方 —— 为记录思想和分享知识提供更专业的工具。
+qrencode
 
-> * 整理知识，学习笔记
-> * 发布日记，杂文，所见所想
-> * 撰写发布技术文稿（代码支持）
-> * 撰写发布学术论文（LaTeX 公式支持）
-> * 备份文档
-> * 个人小脚本
-
-
-
-### [SS/SSR Python备份文档](https://github.com/JoeJoeyMa/joey)
-
-> 内置文件包含一些脚本(other)和个人分享
-
-------
-
-## 什么是 qrencode
-
-qrencode 是一种方便展示把ss/ssr链接在shell终端生成二维码的工具。当然你用它生成任何形式的二维码（无论是个人链接或者是支付二维码）
-
-### 1. 如何安装 [qrencode](https://github.com/fukuchi/libqrencode)
+qrencode
+### 1.[qrencode](https://github.com/fukuchi/libqrencode)
 
 - [ ] Fedora: sudo dnf install qrencode
 - [ ] Centos: yum install qrencode
 - [ ] Debian: Almost same Centos
-- [x] 支持在shell终端生成二维码并展示
-- [x] 可以生成几乎所有形式的二维码
-- [x] 可集成于其他项目中一起使用
 
-### 2. other文件内的个人脚本
+### 2. other
 
 https://github.com/JoeJoeyMa/joey/tree/master/other.
 ### Install
@@ -40,22 +26,7 @@ https://github.com/JoeJoeyMa/joey/tree/master/other.
 Debian / Ubuntu /Centos:
 
     wget -N --no-check-certificate https://raw.githubusercontent.com/JoeJoeyMa/joey/master/other/ssr.sh && chmod +x ssr.sh && bash ssr.sh
-    一键脚本安装多用户可控SS/SSR
-支持 限制 用户速度
-
-支持 限制 用户设备数
-
-支持 限制 用户总流量
-
-支持 定时 流量清零
-
-支持 显示 当前连接IP
-
-支持 显示 SS/SSR连接+二维码
-
-支持 自定义账号IP或域名
-
-支持 监控SSR服务端运行状态
+ 
 
 
 
@@ -63,17 +34,12 @@ Debian / Ubuntu /Centos:
 
 
 
+###  
 
 
-
-
-
-###  绘制表格
-
-| 项目        | 项目地址   |  简介  |
 | --------   | -----:  | :----:  |
-| Blog     | https://github.com/JoeJoeyMa/Django2.0-Blog |   个人基于Django搭建blog   |
-| Joey        |   https://github.com/JoeJoeyMa/joey   |   个人文档   |
+| Blog     | https://github.com/JoeJoeyMa/Django2.0-Blog |  
+| Joey        |   https://github.com/JoeJoeyMa/joey   |   
 | other        |    other   |  other  |
 
 
